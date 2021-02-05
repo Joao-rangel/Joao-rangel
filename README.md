@@ -1,6 +1,6 @@
 ## Olá, muito prazer! 👋
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-rangel" alt="github streak" height="183px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-rangel&layout=compact" alt="used technologies" height="183px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-rangel" alt="github streak" height="182px" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-rangel&layout=compact" alt="used technologies" height="182px" align="center">
 
 
 
