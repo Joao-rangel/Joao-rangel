@@ -1,6 +1,8 @@
 ## Olá, muito prazer! 👋
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Joao-rangel) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-rangel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-rangel" alt="github streak" height="183px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-rangel&layout=compact" alt="used technologies" height="183px">
+
+
 
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
